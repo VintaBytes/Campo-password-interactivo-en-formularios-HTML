@@ -1,0 +1,12 @@
+.contenedor-password {
+    display: inline-flex;
+    border: 2px solid #095588;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.icon {
+    height: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
