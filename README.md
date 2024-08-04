@@ -10,7 +10,10 @@ También he preparado un video, en el que te guiaré a través de los pasos nece
 
 <a href="https://youtu.be/umQ5UMzsdVA">Mostrar/Ocultar Contraseña en Formulario con JavaScript</a>
 
-<img src="https://github.com/VintaBytes/Modo-claro-y-modo-oscuro-en-tu-web/blob/main/portada.jpeg?raw=true" width="320px">
+<img src="https://github.com/VintaBytes/Campo-password-interactivo-en-formularios-HTML/blob/main/portada.jpeg?raw=true" width="320px">
+
+### Captura de pantalla
+<img src="https://github.com/VintaBytes/Campo-password-interactivo-en-formularios-HTML/blob/main/captura.png?raw=true">
 
 ---
 
